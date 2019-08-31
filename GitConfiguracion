@@ -1,0 +1,16 @@
+1. Configurar la sesion de uso de GIT
+  git config --global user.email "correo@domain.com"
+  git config --global user.name "Yisus"
+ 
+ ***Para empezar a trabajar con git
+ git init "path"
+ 
+ ***Ver Status de Git
+ git status
+ 
+ *** Para agregar carpetas o Files cada vez que se modifica 
+ git add {archivo|carpeta }
+ 
+ 
+ *** Para guardar los cambios al hacer commit 
+ git commit  -m "Comentario de esos cambios"
