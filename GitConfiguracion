@@ -21,3 +21,11 @@
  
  Si queremos mostrar de nuevo todos los commits, escribimos 
  git checkout master
+
+Para borrar solo el ID del commit--hard borra id y codigo
+git reset --soft/hard "idCommit" 
+
+
+******************************
+RAMAS
+git branch muestra las ramas
