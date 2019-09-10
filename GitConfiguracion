@@ -5,6 +5,9 @@
  ***Para empezar a trabajar con git
  git init "path"
  
+ *** Para ver las configuraciones de GIT 
+ git config --global list
+ 
  ***Ver Status de Git
  git status
  
