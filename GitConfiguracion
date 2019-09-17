@@ -32,3 +32,12 @@ git reset --soft/hard "idCommit"
 ******************************
 RAMAS
 git branch muestra las ramas
+
+
+Para crear la rama
+Git branch NombreRamaNueva
+
+Para cambiar entre ramas 
+git checkout rama
+
+Todo el codigo que se haga en una rama ahi se queda
