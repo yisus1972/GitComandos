@@ -41,3 +41,10 @@ Para cambiar entre ramas
 git checkout rama
 
 Todo el codigo que se haga en una rama ahi se queda
+git merge nombreRama para fusionar ramas
+
+
+*****
+git clone URLgit (Para descargar proyecto
+git remote origin URLgit para conectar con el proyecto remoto
+git remote -v para ver la liga entre local y remoto
