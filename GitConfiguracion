@@ -48,3 +48,5 @@ git merge nombreRama para fusionar ramas
 git clone URLgit (Para descargar proyecto
 git remote origin URLgit para conectar con el proyecto remoto
 git remote -v para ver la liga entre local y remoto
+git push idGit RamaExportar
+git remote remove idGit
