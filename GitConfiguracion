@@ -20,7 +20,7 @@
  
  *** Mostrar log de todos los commits
  git log
- git log --inline Permite ver los Comits en una linea
+ git log --oneline Permite ver los Comits en una linea
  
  Si queremos mostrar de nuevo todos los commits, escribimos 
  git checkout master
